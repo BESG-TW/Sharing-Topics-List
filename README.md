@@ -77,5 +77,5 @@ This is a spontaneous organization that regularly shares various technologies fo
 ### Join us today
 Feel free to join us if you are interested 😄
 
-My Email: oldmo860617@gmail.com
-
+oldmo860617@gmail.com
+hohshen@gmail.com
