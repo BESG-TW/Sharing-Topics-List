@@ -3,8 +3,12 @@
 This is a spontaneous organization that regularly shares various technologies for web development every week, mainly focuses on backend development.
 
 <p align="center">
-  <img width="180" height="180" src="https://i.imgur.com/wnkmXE3.png">
+  <img width="180" height="180" src="https://i.imgur.com/BPC0Ut3.png">
 </p>
+
+[Website](https://besg-official.vercel.app/) (Not completed yet)
+
+
 
 ### Team Members
 
@@ -54,18 +58,24 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2020/12/26 | Server Send Event | Vivian   | [Slide](https://slides.com/vivian_0920/deck)                                                                                                                             | none              |
 | 2021/01/02 | Typescript Intro | Yan | [Slide](http://slides.com/ianlai/deck-265d26) | none |
 | 2021/01/09 | SSR & Web Rendering | Tim | [Slide](https://slides.com/timothylee-2/deck) | none |
+| 2021/01/16 | OCR Project Sharing | nabroux | [Slide](https://slides.com/nabroux/ocr) | none |
 | 2021/02/20 | Stripe Quick Start | Yenting | [Hackmd](https://hackmd.io/@chenzi/stripe-quick-start) | none |
 | 2021/02/27 | 影音串流觀念與實務 | KK | [Notion](https://www.notion.so/bb12b2e014fe423d845148001d347e2c) | none |
 | 2021/03/06 | Gitlab-ci & IaC | Nathanlin | [Slide](https://slides.com/nathanlin/deck) | none |
 | 2021/03/20 | gRPC | PJ | [Github](https://github.com/pjchender/besg-grpc) | none |
 | 2021/03/28 | Kafka | Jay-Chou | [Slide](https://slides.com/at7211/kafka) | none |
-| 2021/04/03 | Functional Programming | Ken | [Slide](https://slides.com/ken-4/fp) | none |
-| 2021/04/10 | TinyURL system design | Sam Wu | [Slide](https://slides.com/samwu-2/design-a-system-for-tinyurl/edit) | none |
-| 2021/04/17 | Materialized View | Harry | [Slide](https://slides.com/harryyuan/materialized-view) | [Medium](https://harryuan-65.medium.com/%E6%8F%90%E5%8D%87%E6%9C%8D%E5%8B%99%E6%95%88%E8%83%BD-%E6%B8%9B%E8%BC%95db%E8%B2%A0%E6%93%94-2-materialized-view-d6addb870c51) |
-| 2021/05/01 | Design pattern 在專案上的應用 | QH | [Slide](https://slides.com/emilyw-1/deck/live?context=editing#/5/1) | none |
-| 2021/05/08 | 單元測試與自動化測試 | Jimmy | [Github](https://github.com/JimmyFUFU/BESG_BDD_cucumber) | none |
+| 2021/04/05 | Functional Programming | Ken | [Slide](https://slides.com/ken-4/fp) | none |
+| 2021/04/10 | System Design | Sam Wu | [Slide](https://slides.com/samwu-2/design-a-system-for-tinyurl) | none |
+| 2021/04/17 | Materialized View | Harry | [Slide](https://slides.com/harryyuan/materialized-view) | none |
+| 2021/05/01 | Design pattern 在專案上的應用| Emily | [Slide](https://slides.com/emilyw-1/deck/) | none |
+| 2021/05/08 | Unit Testing With Cucumber | Jimmy | [Slide](https://github.com/JimmyFUFU/BESG_BDD_cucumber) | none |
+| 2021/05/22 | 講師分享：API 驗證授權，你該知道的那些事 | John Liu | [Slide](https://s.itho.me/modernweb/2020/Slides/d202.pdf) | none |
+| 2021/05/29 | Let's go serverless & Coding your CDN | Kyle Mo | [Slide](https://slides.com/oldmo860617/deck-538199) | none |
+| 2021/06/19 | PWA | Tim | [Slide](https://slides.com/timothylee-2/pwa) | none |
+| 2021/06/26 | Web Security | Vivian | [Slide](https://slides.com/vivian_0920/deck-44289f/) | none |
 
 ### Join us today
 Feel free to join us if you are interested 😄
 
-Email: oldmo860617@gmail.com
+My Email: oldmo860617@gmail.com
+
