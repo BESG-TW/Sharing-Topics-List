@@ -73,6 +73,7 @@ This is a spontaneous organization that regularly shares various technologies fo
 | 2021/05/29 | Let's go serverless & Coding your CDN | Kyle Mo | [Slide](https://slides.com/oldmo860617/deck-538199) | none |
 | 2021/06/19 | PWA | Tim | [Slide](https://slides.com/timothylee-2/pwa) | none |
 | 2021/06/26 | Web Security | Vivian | [Slide](https://slides.com/vivian_0920/deck-44289f/) | none |
+| 2021/07/17 | DeFi 101 | Jxiu | [Slide](https://slides.com/jxiuh/defi) | none |
 
 ### Join us today
 Feel free to join us if you are interested 😄
